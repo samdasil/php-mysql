@@ -3,4 +3,4 @@
 - Conceitos básicos
 - CRUD com mysql
 
-Link do curso na alura [[text](https://cursos.alura.com.br/course/php-mysql)]
+Link do curso na alura [[acesse](https://cursos.alura.com.br/course/php-mysql)]
